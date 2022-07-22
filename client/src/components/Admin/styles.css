@@ -1,0 +1,60 @@
+.user {
+    color: brown;
+    text-align: center;
+    text-decoration: solid;
+    font-size: 30px;
+}
+
+#list {
+    color: blueviolet;
+    text-align: center;
+    font-size: 60px ;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.bod {
+    color: black;
+}
+
+#categ {
+    color: blueviolet;
+    text-align: center;
+    font-size: 60px ;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 350px;
+}
+
+.category {
+    color: brown;
+    text-align: center;
+    text-decoration: solid;
+    font-size: 30px;
+}
+ #product {
+    color: blueviolet;
+    text-align: center;
+    font-size: 60px ;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 350px;
+ }
+
+ .pro {
+    color: brown;
+    text-align: center;
+    text-decoration: solid;
+    font-size: 30px;
+
+ }
+
+ 
+ .thpr {
+    color: black;
+
+ }
+ Table, th, td,tr {
+    border: 1px solid;
+  }

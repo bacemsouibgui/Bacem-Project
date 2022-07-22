@@ -1,0 +1,49 @@
+
+.img-con img{
+    height: 60px;
+    width: 80px;
+    margin: 30px 20px;
+    
+ }
+ .img-con{
+     text-align: center;
+ }
+ .n-ser{
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.img-ser img{
+    height: 200px;
+    width: 400px;
+    margin: 30px 20px;
+    
+}
+
+.img-ser{
+   display: flex;
+   align-items: center;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+
+
+
+
+
+a{
+    text-align: center;
+    font-size: x-large;
+    text-decoration: none;
+    color: red;
+
+ }
+ a:hover{
+     color: green;
+ }
+ a:active{
+     color: blue;
+ }
